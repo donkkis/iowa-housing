@@ -1,6 +1,6 @@
 # iowa-housing
 
-Multivariate regression analysis of housing prices (data source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques). A notebook for educational/research purposes - everything is very much untested and strictly non-productional!
+Multivariate regression analysis of housing prices (data source: https://www.kaggle.com/c/house-prices-advanced-regression-techniques). A jupyter notebook for educational/research purposes - everything is very much untested and strictly non-productional!
 
 Main features of the notebook:
 
